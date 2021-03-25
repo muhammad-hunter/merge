@@ -1,1 +1,4 @@
-# merge
+this
+is
+some
+text
